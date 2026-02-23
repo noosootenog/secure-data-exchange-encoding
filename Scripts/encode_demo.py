@@ -14,6 +14,7 @@ hex_encoded = data.hex()
 print(f"Hex Encoded: {hex_encoded}")
 
 # URL Encoding
-url_data = "Special chars: <>&?"
+url_data = "Special chars: <>&?" 
+
 url_encoded = urllib.parse.quote(url_data)
 print(f"URL Encoded: {url_encoded}")
