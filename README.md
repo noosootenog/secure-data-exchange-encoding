@@ -1,3 +1,4 @@
+# Secure Data Exchange Encoding
 This repository holds various tools and scripts for encoding secure data exchanges. Below is the directory structure and a brief description of each file:
 
 ## Directory Structure
